@@ -37,3 +37,22 @@ Implementei lógica para exibir diferentes partes da interface com base no estad
 1. Clone este repositório:
 ```bash
 git clone https://github.com/nathaliamaria-gif/nathaliamaria.git
+
+2. Acesse a pasta do projeto:
+bash
+cd nathaliamaria
+
+3. Instale as dependências:
+bash
+npm install
+
+4. Inicie o projeto:
+bash
+npm start
+
+
+👩‍💻 Autora
+Feito com 💙 por Nathalia Maria
+🎓 Curso: Análise e Desenvolvimento de Sistemas
+🔗 LinkedIn 
+🐙 GitHub
